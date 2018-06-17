@@ -28,3 +28,10 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 spring:
   profiles: web-noun
 words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+subjectServiceName: lab4-spring-web-subject
+verbServiceName: lab4-spring-web-verb
+articleServiceName: lab4-spring-web-article
+adjectiveServiceName: lab4-spring-web-adjective
+nounServiceName: lab4-spring-web-noun
