@@ -6,5 +6,25 @@ eureka:
       
 ---
 spring:
-  profiles: subject
+  profiles: web-subject
 words: I,You,He,She,It
+
+---
+spring:
+  profiles: web-verb
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: web-article
+words: a,the
+
+---
+spring:
+  profiles: web-adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: web-noun
+words: boat,book,vote,seat,backpack,partition,groundhog
