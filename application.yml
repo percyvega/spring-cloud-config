@@ -31,7 +31,7 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 spring:
-  profiles: web-serntence
+  profiles: web-sentence
 subjectServiceName: lab4-spring-web-subject
 verbServiceName: lab4-spring-web-verb
 articleServiceName: lab4-spring-web-article
